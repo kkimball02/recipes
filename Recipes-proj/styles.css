@@ -1,0 +1,28 @@
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: red;
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    
+}
+
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: silver;
+}
+
+.image{
+    width: 400px;
+    height: auto;
+}
+
+.heading2{
+    background-color: antiquewhite;
+    font-weight: bold;
+}
+
+.heading3{
+    background-color: burlywood;
+    font-weight: 400;
+}

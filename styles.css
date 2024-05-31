@@ -1,0 +1,13 @@
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: red;
+    font-weight: bolder;
+    color: white;
+    
+}
+
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: silver;
+    text-align: center;
+}
