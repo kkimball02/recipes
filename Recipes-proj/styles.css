@@ -26,3 +26,35 @@
     background-color: burlywood;
     font-weight: 400;
 }
+
+.div1{
+    display: block;
+    box-sizing: border-box;
+    background-color: crimson;
+    padding: 20px;
+    margin: 30px;
+    height: auto;
+    width: auto;
+}
+.div2{
+    display: inline;
+    background-color: black;
+    padding: 20px;
+    margin: 40px;
+
+}
+.div3{
+    display: inline-block;
+    background-color: lightgoldenrodyellow;
+    padding: 30px;
+    margin: -10px;
+
+}
+
+.div4{
+    display: block;
+    background-color: red;
+    padding: 25px;
+    margin: 30px;
+}
+
